@@ -2,8 +2,7 @@ import os
 from random import choice
 import sys
 
-# missing other files
-from moves import Rock, Paper, Scissors
+from rpsmoves import Rock, Paper, Scissors
 
 
 class Game:
